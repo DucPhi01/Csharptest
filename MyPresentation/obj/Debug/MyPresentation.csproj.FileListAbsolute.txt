@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\bin\Debug\MyPresentation.exe.config
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\bin\Debug\MyPresentation.exe
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\bin\Debug\MyPresentation.pdb
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.Form1.resources
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.Properties.Resources.resources
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.exe
+C:\Users\Admin\Documents\VisualProjects\PRN292\windowForm\MyPresentation\obj\Debug\MyPresentation.pdb
